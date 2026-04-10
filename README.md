@@ -219,7 +219,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Jan-v2-VL](https://huggingface.co/collections/janhq/jan-v2-vl) - a family of VLM focused on reliable, many-step task execution
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) - a state-of-the-art 8B orchestration model designed to solve complex, multi-turn agentic tasks by coordinating a diverse set of expert models and tools
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
-- [Waypoint-1](https://huggingface.co/collections/Overworld/waypoint-1) - a collection of control-and-text-conditioned causal diffusion models that can generate worlds in realtime on high-end consumer hardware
+- [Waypoint](https://huggingface.co/collections/Overworld/waypoint) - a collection of real-time interactive video world models
 - [Hunyuan3D](https://huggingface.co/collections/tencent/hunyuan3d) - a collection of everything related (models, datasets etc.) to 3D assets generation from Tencent
 - [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
 - [void-model](https://huggingface.co/netflix/void-model) - a model from Netflix that removes objects from videos along with all interactions they induce on the scene — not just secondary effects like shadows and reflections, but physical interactions like objects falling when a person is removed
