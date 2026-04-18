@@ -30,7 +30,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Testing, Evaluation and Observability](#testing-evaluation-and-observability)
   - [Research](#research)
   - [Training and Fine-tuning](#training-and-fine-tuning)
-  - [Sandboxing](#sandboxing)
+  - [Security and Sandboxing](#security-and-sandboxing)
   - [Miscellaneous](#miscellaneous-1)
 - [Hardware](#hardware)
 - [Tutorials](#tutorials)
@@ -384,8 +384,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
-### Sandboxing
+### Security and Sandboxing
 
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - an open-source toolkit from NVIDIA for easily adding programmable guardrails to LLM-based conversational systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
 
 [Back to Table of Contents](#table-of-contents)
