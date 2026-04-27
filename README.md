@@ -387,7 +387,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17" align="texttop"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
 - <img src="https://img.shields.io/github/stars/radixark/miles?style=social" height="17" align="texttop"/> [miles](https://github.com/radixark/miles) - an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime
-- <img src="https://img.shields.io/github/stars/AgentToolkit/altk-evolve?style=social" height="17" align="texttop"/> [altk-evolve](https://github.com/AgentToolkit/altk-evolve) - a system designed to help agents improve over time by learning from their trajectories
 
 [Back to Table of Contents](#table-of-contents)
 
