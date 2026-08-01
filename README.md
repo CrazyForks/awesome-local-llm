@@ -233,6 +233,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Miscellaneous
 
+- [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
 - [Jan-v3](https://huggingface.co/collections/janhq/jan-v3) - a 4B baseline model for fine-tuning, designed for downstream work: improved instruction following out of the box, strong starting point for fine-tuning and effective lightweight coding assistance
 - [Jan-v2-VL](https://huggingface.co/collections/janhq/jan-v2-vl) - a family of VLM focused on reliable, many-step task execution
