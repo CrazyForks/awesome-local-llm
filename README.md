@@ -218,6 +218,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Safeguards
 
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Shieldstral 1.0 3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) - a compact 3B-parameter, policy-adaptive multimodal safety classifier
 - [Granite Guardian](https://huggingface.co/collections/ibm-granite/granite-guardian) - a collection of safety models from IBM for detecting risks, toxicity, and hallucinations in LLM workflows
 - [Qwen3Guard](https://huggingface.co/collections/Qwen/qwen3guard-68d2729abbfae4716f3343a1) - a collection of safety moderation models built upon Qwen3
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NemoGuard](https://huggingface.co/collections/nvidia/nemoguard) - a collection of models from NVIDIA for content safety, topic-following and security guardrails
