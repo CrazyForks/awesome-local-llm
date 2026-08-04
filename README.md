@@ -406,6 +406,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/nvidia-nemo/rl?style=social" height="17" align="texttop"/> [RL](https://github.com/nvidia-nemo/rl) - scalable toolkit for efficient model reinforcement
 - <img src="https://img.shields.io/github/stars/radixark/miles?style=social" height="17" align="texttop"/> [miles](https://github.com/radixark/miles) - an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/gym?style=social" height="17" align="texttop"/> [Gym](https://github.com/NVIDIA-NeMo/gym) - evaluate and improve models and agents using environments
+- <img src="https://img.shields.io/github/stars/sgl-project/SpecForge?style=social" height="17" align="texttop"/> [SpecForge](https://github.com/sgl-project/SpecForge) - train speculative decoding models effortlessly and port them smoothly to SGLang serving
 
 [Back to Table of Contents](#table-of-contents)
 
